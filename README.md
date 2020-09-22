@@ -17,4 +17,4 @@ Following this, a Monte Carlo experiment was performed on all three categories, 
 
 ![Output of Monte Carlo simulation](mc_model_output.png "Impact of Black Swan events on global flight numbers")
 
-[View notebook](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
+[View Notebook](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
