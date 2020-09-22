@@ -1,4 +1,4 @@
-# Monte Carlo Airports
+# Project 1: Monte Carlo Airports
 
 Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers
 
