@@ -1,8 +1,8 @@
-# monte_carlo_airports
+# Monte Carlo Airports
 
 Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers
 
-Executive Summary¶
+## Executive Summary¶
 
 A Black Swan Monte Carlo experiment was performed on international flight data to see how removing random airports, cities and countries would affect overall flight numbers and what information would emerge from the data. Firstly, data was obtained from OpenFlights and cleaned. Following this exploratory data analysis was performed, some of the key insights were as follows:
 
