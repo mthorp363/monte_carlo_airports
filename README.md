@@ -1,4 +1,4 @@
-# Project 1: Monte Carlo Airports
+# [Project 1: Monte Carlo Airports](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
 
 Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers
 
@@ -17,4 +17,3 @@ Following this, a Monte Carlo experiment was performed on all three categories, 
 
 ![Output of Monte Carlo simulation](mc_model_output.png "Impact of Black Swan events on global flight numbers")
 
-[View Notebook](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
