@@ -16,3 +16,5 @@ Following this, a Monte Carlo experiment was performed on all three categories, 
 - Initially airports and cities were closely connected with overlapping values. However, after approximately 200 events, the two diverged with a small but stable difference.
 
 ![Output of Monte Carlo simulation](mc_model_output.png "Impact of Black Swan events on global flight numbers")
+
+[View notebook](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
